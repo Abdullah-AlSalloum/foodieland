@@ -15,11 +15,11 @@ function UpperBar() {
             <h1 className="logo">foodieland<span>.</span></h1>
             <div className="tabs">
                 <ul className="nav section-tab">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Recipes</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Contact</a></li>
-                    <li><a href="#">About us</a></li>
+                    <li><a href="home">Home</a></li>
+                    <li><a href="recipes">Recipes</a></li>
+                    <li><a href="blog">Blog</a></li>
+                    <li><a href="contact">Contact</a></li>
+                    <li><a href="about">About us</a></li>
                 </ul>
             </div>
             <div className="tabs media">
