@@ -1,11 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Playwrite+VN:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+  font-family: 'Inter', sans-serif;
+}
+/*             start of ResponsiveAppBar                  */
 .MuiAppBar-colorPrimary{
   background-color: #fff !important;
 }
 
 .MuiTypography-h6{
   font-family: 'Playwrite VN', sans-serif !important;
- 
   letter-spacing: normal !important;
 }
 .MuiButton-colorPrimary{
@@ -23,3 +28,6 @@
 .MuiButton-colorPrimary:hover{
   color:#FF7426 !important;
 }
+/*             end of ResponsiveAppBar                  */
+
+/*             start of ResponsiveDrawer                  */

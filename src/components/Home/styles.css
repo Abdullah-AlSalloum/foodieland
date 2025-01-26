@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: #eee;
+  font-family: "Inter", serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+.imgSlide{
+    width: 80%;
+    height: 80vh;
+    position: relative;
+    background-color: #E7FAFE;
+    margin-top: 3%;
+    border-radius: 30px;
+}
+.badgee{
+    position: absolute;
+    left: 40%;
+   z-index: 100;
+   width: 150px;
+   height: 150px !important;
+  
+}
+.hotRecipestext{
+    text-transform: capitalize !important;  
+}
+
+.hotRecipesButton{
+    position: relative;
+    background-color: #fff;
+    width:11% ;
+    height: 6vh;
+    border-radius: 30px;
+    left: 0;
+}
+.hotRecipesButton img{
+    position: absolute;
+    left: 10px;
+    width: 20px;
+    height: auto;
+    object-fit:contain;
+}
+.hotRecipesButton p{
+    position: absolute;
+    right: 16px;
+    top: 10px;
+    font-weight: 500;
+    color: #000;
+}
+.leftText{
+    position: absolute;
+    left: 5%; 
+    top: 7%;
+}
+.textSlide{
+    margin-top: 2%;
+}
+.leftText .textSlide h1{
+    font-weight: 700;
+}
+.leftText .textSlide p{
+ font-weight: 200;
+ margin-top: 2%;
+}
+.imgSlide img{
+    position: absolute;
+    right: 0;
+    height: 100%;
+}
+.buttonSlide{
+    margin-top: 30px;
+}
+.buttonSlide button:last-child{
+     margin-left: 30px;
+}
+.buttonSlide button{
+    font-weight: 300;
+    border: none;
+    background-color: #dbedf1;
+    padding: 10px 30px;
+    border-radius: 30px;
+}
+.buttonSlide svg{
+    margin-right: 7px;
+   
+}
+.buttonSlide button:hover{
+    background-color: #FF7426;
+    color: #fff;
+}
+.programmer{
+    margin-top: 5%;
+    display: flex; 
+}
+.programmer svg{
+    margin: 7px 20px 0 0;
+    font-size: 30px;
+    
+}
+.programmer p{
+    font-weight: 300;
+}
+.programmer p:first-child{
+    font-weight: 600;
+}
+.programmer p:last-child{
+    margin-top: -12px;
+}
+.programmer button{
+    position: absolute;
+    left: 30%;
+    padding: 10px 30px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    border-radius: 15px;
+}
+.programmer button svg{
+    margin-left: 15px;
+    font-size: 20px;
+    margin-bottom: 6px; 
+}
+.programmer button:hover svg{
+margin-left: 20px;
+}
+.programmer button:hover{
+    background-color: #FF7426;
+}
+swiper-container {
+  width: 100%;
+  height: 100%;
+}
+button{
+    transition: all 0.3s ease;
+}
+
+swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

@@ -1,12 +1,15 @@
 import React from 'react';
 import ResponsiveAppBar from './ResponsiveAppBar';
+import Carousel from './Carousel';
+
 
 function Home() {
   return (
-    <div>
-      
+    <>   
       <ResponsiveAppBar />
-    </div>
+      <Carousel />
+     
+    </>
   );
 }   
 

@@ -16,7 +16,6 @@ import { FaXing } from "react-icons/fa";
 import { RiFacebookFill } from "react-icons/ri";
 
 
-const pages = ['Home', 'Recipes', 'Blog', 'Contact', 'About us'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 function ResponsiveAppBar() {
@@ -51,7 +50,6 @@ function ResponsiveAppBar() {
             sx={{
               ml: 4,
               display: { xs: 'none', md: 'flex' },
-              fontWeight: 700,
               textDecoration: 'none',
               fontWeight:'900'
             }}
