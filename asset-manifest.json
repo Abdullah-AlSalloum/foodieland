@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Abdullah-AlSalloum/foodieland/static/css/main.49faa5e3.css",
-    "main.js": "/Abdullah-AlSalloum/foodieland/static/js/main.1ebb4858.js",
+    "main.css": "/Abdullah-AlSalloum/foodieland/static/css/main.e59c5f47.css",
+    "main.js": "/Abdullah-AlSalloum/foodieland/static/js/main.910a0aa4.js",
     "index.html": "/Abdullah-AlSalloum/foodieland/index.html",
-    "main.49faa5e3.css.map": "/Abdullah-AlSalloum/foodieland/static/css/main.49faa5e3.css.map",
-    "main.1ebb4858.js.map": "/Abdullah-AlSalloum/foodieland/static/js/main.1ebb4858.js.map"
+    "main.e59c5f47.css.map": "/Abdullah-AlSalloum/foodieland/static/css/main.e59c5f47.css.map",
+    "main.910a0aa4.js.map": "/Abdullah-AlSalloum/foodieland/static/js/main.910a0aa4.js.map"
   },
   "entrypoints": [
-    "static/css/main.49faa5e3.css",
-    "static/js/main.1ebb4858.js"
+    "static/css/main.e59c5f47.css",
+    "static/js/main.910a0aa4.js"
   ]
 }
