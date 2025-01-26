@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Abdullah-AlSalloum/foodieland/static/css/main.e59c5f47.css",
-    "main.js": "/Abdullah-AlSalloum/foodieland/static/js/main.910a0aa4.js",
+    "main.css": "/Abdullah-AlSalloum/foodieland/static/css/main.752cf2ee.css",
+    "main.js": "/Abdullah-AlSalloum/foodieland/static/js/main.d955dccc.js",
+    "static/media/MaskGroup.png": "/Abdullah-AlSalloum/foodieland/static/media/MaskGroup.7176916f98f32208e8f0.png",
     "index.html": "/Abdullah-AlSalloum/foodieland/index.html",
-    "main.e59c5f47.css.map": "/Abdullah-AlSalloum/foodieland/static/css/main.e59c5f47.css.map",
-    "main.910a0aa4.js.map": "/Abdullah-AlSalloum/foodieland/static/js/main.910a0aa4.js.map"
+    "main.752cf2ee.css.map": "/Abdullah-AlSalloum/foodieland/static/css/main.752cf2ee.css.map",
+    "main.d955dccc.js.map": "/Abdullah-AlSalloum/foodieland/static/js/main.d955dccc.js.map"
   },
   "entrypoints": [
-    "static/css/main.e59c5f47.css",
-    "static/js/main.910a0aa4.js"
+    "static/css/main.752cf2ee.css",
+    "static/js/main.d955dccc.js"
   ]
 }
