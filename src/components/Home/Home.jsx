@@ -1,10 +1,11 @@
 import React from 'react';
-import UpperBar from './UpperBar';
+import ResponsiveAppBar from './ResponsiveAppBar';
 
 function Home() {
   return (
     <div>
-      <UpperBar />
+      
+      <ResponsiveAppBar />
     </div>
   );
 }   

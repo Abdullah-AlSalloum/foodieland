@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Playwrite+VN:wght@100..400&display=swap');
+.MuiAppBar-colorPrimary{
+  background-color: #fff !important;
+}
+
+.MuiTypography-h6{
+  font-family: 'Playwrite VN', sans-serif !important;
+ 
+  letter-spacing: normal !important;
+}
+.MuiButton-colorPrimary{
+  color: #000 !important;
+}
+.MuiSvgIcon-root{
+  color: #000 !important;
+}
+.MuiButtonBase-root, .MuiTypography-root{
+  transition: all 0.3s ease;
+}
+.MuiTypography-root:hover{
+  color:#FF7426 ;
+}
+.MuiButton-colorPrimary:hover{
+  color:#FF7426 !important;
+}
